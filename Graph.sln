@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph", "Graph\Graph.csproj", "{15109971-EA8F-4E7B-AA9F-39E742584AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph.Tests", "Graph.Tests\Graph.Tests.csproj", "{9A5260FF-7E20-4850-8F91-F60E4EDD581C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtitleTimeshift", "SubtitleTimeshift\SubtitleTimeshift.csproj", "{554ABEA7-5871-49AF-BEB1-73DDABCE2FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleTimeshift.Tests", "SubtitleTimeshift.Tests\SubtitleTimeshift.Tests.csproj", "{1D6679EA-E265-47C3-8849-1CAD62ECE49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15109971-EA8F-4E7B-AA9F-39E742584AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15109971-EA8F-4E7B-AA9F-39E742584AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15109971-EA8F-4E7B-AA9F-39E742584AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15109971-EA8F-4E7B-AA9F-39E742584AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5260FF-7E20-4850-8F91-F60E4EDD581C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5260FF-7E20-4850-8F91-F60E4EDD581C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5260FF-7E20-4850-8F91-F60E4EDD581C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5260FF-7E20-4850-8F91-F60E4EDD581C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554ABEA7-5871-49AF-BEB1-73DDABCE2FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554ABEA7-5871-49AF-BEB1-73DDABCE2FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554ABEA7-5871-49AF-BEB1-73DDABCE2FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554ABEA7-5871-49AF-BEB1-73DDABCE2FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6679EA-E265-47C3-8849-1CAD62ECE49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6679EA-E265-47C3-8849-1CAD62ECE49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6679EA-E265-47C3-8849-1CAD62ECE49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6679EA-E265-47C3-8849-1CAD62ECE49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC2F840-E091-4097-B744-9B78A61A2979}
+	EndGlobalSection
+EndGlobal
